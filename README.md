@@ -1,6 +1,6 @@
 ## `Asset manager`
 
-My First web3 backend program.
+My First web3 backend program.<br />
 Sample project for a Wallet/Asset Managing system for multiple onchain users.
 
 # Basic Features
@@ -12,5 +12,5 @@ Sample project for a Wallet/Asset Managing system for multiple onchain users.
 
 
 
-Programming Language -- Internet computer's Motoko Language.
+Programming Language -- Internet computer's Motoko Language.<br />
 Author -- Ekop Samuel (https://www.github.com/rzsamrio)
